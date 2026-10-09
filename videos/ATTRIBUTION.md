@@ -28,3 +28,18 @@
 - All original graphics. Sources checked 7 Oct 2026: NIS passport requirements and 2026 Service Level Agreement (immigration.gov.ng: fresh passport 42 days, renewal 21 days after enrolment); GOV.UK Student visa money (gov.uk/student-visa/money: 28 consecutive days; £1,529/month London, £1,171/month elsewhere, up to 9 months); GOV.UK TB test list incl. Nigeria (gov.uk/tb-test-visa); GOV.UK Skilled Worker visa (Certificate of Sponsorship); Canada.ca permanent residence police certificates.
 
 The full download log for all Commons assets (including unused ones) is in `../pipeline/attributions.json`.
+
+## 06-airport-mistakes.mp4
+- **Content:** General first-time flyer tips (illustration). No legal advice; viewers should check their airline and departure airport rules.
+- **Photo:** "Lagos skyline with marina" by kopee15, **Public domain**. https://commons.wikimedia.org/wiki/File:Lagos_skyline_with_marina.jpg
+- **Photo:** "Transportation Security Administration Checkpoint at John Glenn Columbus International Airport" by Michael Ball, **CC0**. https://commons.wikimedia.org/wiki/File:Transportation_Security_Administration_Checkpoint_at_John_Glenn_Columbus_International_Airport.jpg
+- **Photo:** "Baggage carousel A Sandakan Airport" by Taufik, **CC0**. https://commons.wikimedia.org/wiki/File:Baggage_carousel_A_Sandakan_Airport.jpg
+- **Photo:** "Myanmar passport stamp Tachileik e-visa in 1" by Slleong, **CC0**. https://commons.wikimedia.org/wiki/File:Myanmar_passport_stamp_Tachileik_e-visa_in_1.jpg
+- **Departures board and checklist graphics:** original illustrations (no real airlines or flight numbers).
+- **Voice:** en-NG-EzinneNeural (AI voiceover). Set TikTok `isAiGenerated: true`.
+
+## 07-fake-embassy-check.mp4
+- **Sources checked 9 Oct 2026:** UK Home Office, "Fraud, tricks and scams: guidance" — official UK government websites always end in `.gov.uk`; never pay by email/gift cards/personal accounts. https://www.gov.uk/government/publications/frauds-tricks-and-scams/fraud-tricks-and-scams
+- **Also:** Stop! Think Fraud — How to spot a fake website (stopthinkfraud.campaign.gov.uk/how-to-spot-fraud/how-to-spot-a-fake-website/). Padlock/HTTPS alone does not prove a site is genuine.
+- **URL-check, transfer and source graphics:** original dramatised illustrations; look-alike domains masked with ●●●. No real scam sites named.
+- **Voice:** en-NG-EzinneNeural (AI voiceover). Set TikTok `isAiGenerated: true`.
