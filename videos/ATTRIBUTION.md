@@ -44,5 +44,14 @@ The full download log for all Commons assets (including unused ones) is in `../p
 - **URL-check, transfer and source graphics:** original dramatised illustrations; look-alike domains masked with ●●●. No real scam sites named.
 - **Voice:** en-NG-EzinneNeural (AI voiceover). Set TikTok `isAiGenerated: true`.
 
+## 08-detty-december.mp4
+- **Content:** Seasonal booking tip for Detty December (Lagos ↔ London). Qualitative only: December is typically the priciest month; November is usually cheaper. **No live dollar figures** — same-day Google Flights capture attempted 10 Oct 2026 (Dec 10–17 and Nov 10–17, USD/NGN) but results did not load after retries.
+- **Photo:** "Lagos skyline with marina" by kopee15, **Public domain**. https://commons.wikimedia.org/wiki/File:Lagos_skyline_with_marina.jpg
+- **Photo:** "Qantas a380 vh-oqa takeoff heathrow arp" by Adrian Pingstone, **Public domain**. https://commons.wikimedia.org/wiki/File:Qantas_a380_vh-oqa_takeoff_heathrow_arp.jpg
+- **Photo:** "Airbus A319 at sunset at London Heathrow Terminal 3 with Control Tower behind - Air France F-GRHN" by Mertbiol, **CC0**. https://commons.wikimedia.org/wiki/File:Airbus_A319_at_sunset_at_London_Heathrow_Terminal_3_with_Control_Tower_behind_-_Air_France_F-GRHN.jpg
+- **Photo:** "Sunset view from an airplane window above the clouds" by Salwa Farwaneh Dameh, **CC0**. https://commons.wikimedia.org/wiki/File:Sunset_view_from_an_airplane_window_above_the_clouds.jpg
+- **Source card and checklist graphics:** original illustrations.
+- **Voice:** en-NG-EzinneNeural (AI voiceover), rate −8%, pitch −3 Hz. Set TikTok `isAiGenerated: true`.
+
 ## Calm re-renders (10 Oct 2026): 03-self-transfer-calm.mp4, 06-airport-mistakes-calm.mp4, 07-fake-embassy-check-calm.mp4
 - Same scripts, sources, photos and graphics as the originals above. Only the voiceover pacing changed: en-NG-EzinneNeural at rate −8%, pitch −3 Hz, natural pauses kept, 0.6 s pause between scenes.
