@@ -43,3 +43,6 @@ The full download log for all Commons assets (including unused ones) is in `../p
 - **Also:** Stop! Think Fraud — How to spot a fake website (stopthinkfraud.campaign.gov.uk/how-to-spot-fraud/how-to-spot-a-fake-website/). Padlock/HTTPS alone does not prove a site is genuine.
 - **URL-check, transfer and source graphics:** original dramatised illustrations; look-alike domains masked with ●●●. No real scam sites named.
 - **Voice:** en-NG-EzinneNeural (AI voiceover). Set TikTok `isAiGenerated: true`.
+
+## Calm re-renders (10 Oct 2026): 03-self-transfer-calm.mp4, 06-airport-mistakes-calm.mp4, 07-fake-embassy-check-calm.mp4
+- Same scripts, sources, photos and graphics as the originals above. Only the voiceover pacing changed: en-NG-EzinneNeural at rate −8%, pitch −3 Hz, natural pauses kept, 0.6 s pause between scenes.
