@@ -55,3 +55,10 @@ The full download log for all Commons assets (including unused ones) is in `../p
 
 ## Calm re-renders (10 Oct 2026): 03-self-transfer-calm.mp4, 06-airport-mistakes-calm.mp4, 07-fake-embassy-check-calm.mp4
 - Same scripts, sources, photos and graphics as the originals above. Only the voiceover pacing changed: en-NG-EzinneNeural at rate −8%, pitch −3 Hz, natural pauses kept, 0.6 s pause between scenes.
+
+## 09-uk-tb-test.mp4
+- **Sources checked 11 Oct 2026:** GOV.UK JSON API — https://www.gov.uk/tb-test-visa (who needs a TB test; chest x-ray; certificate valid 6 months from x-ray date; approved clinics only) and https://www.gov.uk/government/publications/tuberculosis-test-for-a-uk-visa-clinics-in-nigeria (Nigeria clinics page, public_updated_at 13 May 2026). Not immigration advice; always verify on the official site.
+- **Photo:** "Lagos skyline with marina" by kopee15, **Public domain**. https://commons.wikimedia.org/wiki/File:Lagos_skyline_with_marina.jpg
+- **Photo:** "Brazil Iceland UK US passport stamps" by Jon Evans, **CC BY 2.0**. https://commons.wikimedia.org/wiki/File:Brazil_Iceland_UK_US_passport_stamps.jpg
+- **Source card and checklist graphics:** original illustrations.
+- **Voice:** en-NG-EzinneNeural (AI voiceover), rate −8%, pitch −3 Hz. Set TikTok `isAiGenerated: true`.
