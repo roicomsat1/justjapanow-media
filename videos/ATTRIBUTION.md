@@ -62,3 +62,8 @@ The full download log for all Commons assets (including unused ones) is in `../p
 - **Photo:** "Brazil Iceland UK US passport stamps" by Jon Evans, **CC BY 2.0**. https://commons.wikimedia.org/wiki/File:Brazil_Iceland_UK_US_passport_stamps.jpg
 - **Source card and checklist graphics:** original illustrations.
 - **Voice:** en-NG-EzinneNeural (AI voiceover), rate −8%, pitch −3 Hz. Set TikTok `isAiGenerated: true`.
+
+## 10-cheapest-month/ (photo carousel, 8 slides)
+- **Content:** Seasonal tip for Lagos → London: November is typically cheaper, December typically the priciest (Christmas / Detty December peak). **Qualitative only, no fare figures.** Same-day Google Flights capture attempted 12 Oct 2026 (Lagos→London 10–24 Nov, NGN). It hit the consent wall, then returned "No results returned" to the headless browser after retries.
+- **Google Flights features named** (Price graph, Date grid, Track prices) as shown on google.com/travel/flights. Viewers are told to check live prices themselves.
+- **Graphics:** original slides (no photos). Not booking advice.
