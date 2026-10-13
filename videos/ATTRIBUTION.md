@@ -67,3 +67,10 @@ The full download log for all Commons assets (including unused ones) is in `../p
 - **Content:** Seasonal tip for Lagos → London: November is typically cheaper, December typically the priciest (Christmas / Detty December peak). **Qualitative only, no fare figures.** Same-day Google Flights capture attempted 12 Oct 2026 (Lagos→London 10–24 Nov, NGN). It hit the consent wall, then returned "No results returned" to the headless browser after retries.
 - **Google Flights features named** (Price graph, Date grid, Track prices) as shown on google.com/travel/flights. Viewers are told to check live prices themselves.
 - **Graphics:** original slides (no photos). Not booking advice.
+
+## 11-price-alerts.mp4
+- **Source checked 13 Oct 2026:** Google Travel Help, "Track flights and prices": https://support.google.com/travel/answer/6235879 (turn on Track prices for your dates or "Any dates"; email updates when the price changes significantly; alerts when prices are likely to go up; manage on the Tracked flights page).
+- **Qualitative how-to only, no fare figures.** Same-day Google Flights capture attempted 13 Oct 2026 (Lagos→London 17–24 Nov, NGN); results did not load in the headless browser after 5 retries. Step panels are original illustrations, not Google screenshots.
+- **Photo:** "Qantas a380 vh-oqa takeoff heathrow arp" by Adrian Pingstone, **Public domain**. https://commons.wikimedia.org/wiki/File:Qantas_a380_vh-oqa_takeoff_heathrow_arp.jpg
+- **Photo:** "47 Airport departures board free photo - Melbourne Airport timetable" by Marek Ślusarczyk (Tupungato), **CC BY 3.0** (credited on screen). https://commons.wikimedia.org/wiki/File:47_Airport_departures_board_free_photo_-_Melbourne_Airport_timetable_-_Creative_Commons_Attribution.jpg
+- **Voice:** en-NG-EzinneNeural (AI voiceover), rate −8%, pitch −3 Hz. Set TikTok `isAiGenerated: true`.
