@@ -92,3 +92,11 @@ The full download log for all Commons assets (including unused ones) is in `../p
 - **Photo:** "Bishopsgate in the Rain 2017-12-17" by Garry Knight, **CC BY 2.0** (credited on screen). https://commons.wikimedia.org/wiki/File:Bishopsgate_in_the_Rain_2017-12-17.jpg
 - **Source card and checklist graphics:** original illustrations.
 - **Voice:** en-NG-EzinneNeural (AI voiceover), rate −8%, pitch −3 Hz. Set TikTok `isAiGenerated: true`.
+
+## 14-clocks-go-back.mp4
+- **Source checked 15 Oct 2026:** GOV.UK, "When do the clocks change?": https://www.gov.uk/when-do-the-clocks-change (last updated 24 Nov 2025; also the page's united-kingdom.json feed). "The clocks go back 25 October" (2026 row: clocks go forward 29 March, back 25 October); "In the UK the clocks ... go back 1 hour at 2am on the last Sunday in October"; "When the clocks go back, the UK is on Greenwich Mean Time (GMT)".
+- Lagos (WAT) is UTC+1 all year with no clock change: up to Sat 24 Oct 2026 UK time = Lagos time; from Sun 25 Oct 2026 Lagos is 1 hour ahead of the UK (8pm Lagos = 7pm London). Time-zone and call-time graphics are original illustrations.
+- **Photo:** "Big Ben in 2025.08" by CAPTAIN RAJU, **CC0**. https://commons.wikimedia.org/wiki/File:Big_Ben_in_2025.08.jpg
+- **Photo:** "Big Ben at night, 30 April 2017" by Syd Storm, **CC0**. https://commons.wikimedia.org/wiki/File:Big_Ben_at_night,_30_April_2017.jpg
+- **Photo:** "Lagos skyline with marina" by kopee15, **Public domain**. https://commons.wikimedia.org/wiki/File:Lagos_skyline_with_marina.jpg
+- **Voice:** en-NG-EzinneNeural (AI voiceover), rate −8%, pitch −3 Hz. Set TikTok `isAiGenerated: true`.
