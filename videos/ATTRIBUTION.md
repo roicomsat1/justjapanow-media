@@ -100,3 +100,9 @@ The full download log for all Commons assets (including unused ones) is in `../p
 - **Photo:** "Big Ben at night, 30 April 2017" by Syd Storm, **CC0**. https://commons.wikimedia.org/wiki/File:Big_Ben_at_night,_30_April_2017.jpg
 - **Photo:** "Lagos skyline with marina" by kopee15, **Public domain**. https://commons.wikimedia.org/wiki/File:Lagos_skyline_with_marina.jpg
 - **Voice:** en-NG-EzinneNeural (AI voiceover), rate −8%, pitch −3 Hz. Set TikTok `isAiGenerated: true`.
+
+## 15-sponsor-register.mp4 ('Guaranteed UK job + visa' red flags: check the sponsor register)
+- Facts checked 17 Oct 2026 via the GOV.UK JSON API: gov.uk/skilled-worker-visa; gov.uk/government/publications/register-of-licensed-sponsors-workers (register CSV dated 16 Oct 2026); gov.uk/uk-visa-sponsorship-employers; UK Home Office 'Fraud, tricks and scams: guidance'.
+- Photo: "Legal Contract & Signature - Warm Tones" by Blogtrepreneur, Wikimedia Commons, CC BY 2.0 (https://creativecommons.org/licenses/by/2.0), cropped/scaled with motion and text overlays; credited on screen.
+- Photo: "Heathrow-T1" by Romazur, Wikimedia Commons, Public domain.
+- Checklist and source panels are original graphics. AI voiceover (en-NG-EzinneNeural). Not immigration advice.
