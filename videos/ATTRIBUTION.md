@@ -106,3 +106,8 @@ The full download log for all Commons assets (including unused ones) is in `../p
 - Photo: "Legal Contract & Signature - Warm Tones" by Blogtrepreneur, Wikimedia Commons, CC BY 2.0 (https://creativecommons.org/licenses/by/2.0), cropped/scaled with motion and text overlays; credited on screen.
 - Photo: "Heathrow-T1" by Romazur, Wikimedia Commons, Public domain.
 - Checklist and source panels are original graphics. AI voiceover (en-NG-EzinneNeural). Not immigration advice.
+
+## 16-evisa.mp4 (UK eVisa explained, GOV.UK)
+* Facts: GOV.UK "eVisas: access and use your online immigration status" (gov.uk/evisa), read via the GOV.UK content API on 18 Oct 2026.
+* Photos (Wikimedia Commons): "Brazil, Iceland, UK, US passport stamps" by Jon Evans, CC BY 2.0 (credited on screen); "Heathrow-T1" by Romazur, Public domain.
+* Checklist, source panels and end card: original graphics. Voiceover: AI (edge-tts en-NG-EzinneNeural). Not immigration advice.
