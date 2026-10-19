@@ -111,3 +111,9 @@ The full download log for all Commons assets (including unused ones) is in `../p
 * Facts: GOV.UK "eVisas: access and use your online immigration status" (gov.uk/evisa), read via the GOV.UK content API on 18 Oct 2026.
 * Photos (Wikimedia Commons): "Brazil, Iceland, UK, US passport stamps" by Jon Evans, CC BY 2.0 (credited on screen); "Heathrow-T1" by Romazur, Public domain.
 * Checklist, source panels and end card: original graphics. Voiceover: AI (edge-tts en-NG-EzinneNeural). Not immigration advice.
+
+## 17-ecowas-visa-free (photo carousel, ECOWAS trips with no visa needed)
+- **Sources checked 19 Oct 2026 (ecowas.int):** Protocol A/P.1/5/79 relating to Free Movement of Persons, Residence and Establishment (https://www.ecowas.int/wp-content/uploads/2024/08/PROTOCOL-RELATING-TO-FREE-MOVEMENT-OF-PERSONS.pdf), Article 3: a Community citizen visiting a Member State for up to 90 days enters through the official entry point free of visa requirements, must possess a valid travel document and international health certificate, and needs permission to extend beyond 90 days; Article 4: Member States may refuse admission to inadmissible immigrants.
+- Supplementary Act amending Article 1(8) (https://www.ecowas.int/wp-content/uploads/2022/08/1-Free-Movement-of-Persons.pdf): a valid travel document is a passport, other official biometric national identity card or a laissez-passer issued by a Member State.
+- ECOWAS "Creation (History)" (https://www.ecowas.int/creation-history/): current Member States are Benin, Cabo Verde, Côte d'Ivoire, The Gambia, Ghana, Guinea, Guinea Bissau, Liberia, Nigeria, Sierra Leone, Sénégal and Togo; Burkina Faso, Mali and Niger officially withdrew on 29 January 2025.
+- All slides are original graphics; no photos. General travel info, not immigration advice.
