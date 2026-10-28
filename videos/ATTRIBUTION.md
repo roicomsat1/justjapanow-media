@@ -156,3 +156,20 @@ The full download log for all Commons assets (including unused ones) is in `../p
 
 ## 24-free-museums (photo carousel, scheduled Sat 31 Oct 2026 19:00 Lagos)
 Original graphics only, no photos. Facts read 26 Oct 2026 from official sites: britishmuseum.org/visit, nationalgallery.org.uk/visiting/plan-your-visit, nhm.ac.uk/visit.html, sciencemuseum.org.uk/visit, tate.org.uk/visit/tate-modern.
+
+## 25-train-weekend-trips (carousel, scheduled Sun 1 Nov 2026 19:00 Lagos)
+Original graphics, no photos. Facts checked 27 Oct 2026: visitbrighton.com/plan-your-visit/getting-here; experienceoxfordshire.org/travel-to-oxfordshire-by-train-with-gwr; ox.ac.uk/about/visit-us/how-get-oxford; visitcambridge.org/travelling-to-cambridge; visitbath.co.uk/plan-your-visit/getting-here; visityork.org/visitor-information/travel-information; londonnortheasternrailway.co.uk/stations/york; nationalrail.co.uk; gwr.com (London to Oxford); railcard.co.uk (checked 25 Oct 2026).
+
+## 26-ni-number (video, scheduled Mon 2 Nov 2026 20:00 Lagos)
+- Facts: GOV.UK JSON API, gov.uk/apply-national-insurance-number, checked 28 Oct 2026.
+- **Photos:** "Bishopsgate in the Rain 2017-12-17" by Garry Knight, **CC BY 2.0** (credited on screen); "Main ticket hall Whitechapel station August 2021" by TheFrog001, **CC0**.
+- Panels and end card: original graphics. Voiceover: AI (edge-tts en-NG-EzinneNeural), rate −8%, pitch −3 Hz. TikTok `isAiGenerated: true`. General info, not advice.
+
+## 27-scam-texts (photo carousel, 8 slides, scheduled Tue 3 Nov 2026 20:00 Lagos)
+- Facts: GOV.UK JSON API, gov.uk/report-suspicious-emails-websites-phishing (all three parts), checked 28 Oct 2026; visa fee paid in online application from gov.uk/apply-to-come-to-the-uk (checked 21 Oct 2026).
+- Original graphics only, no photos; no real scam sites named.
+
+## 28-register-gp (video, scheduled Wed 4 Nov 2026 20:00 Lagos)
+- Facts: nhs.uk/nhs-services/gps/how-to-register-with-a-gp-surgery/, read 28 Oct 2026 (England only).
+- **Photos:** "Big Ben in 2025.08" by CAPTAIN RAJU, **CC0**; "Bishopsgate in the Rain 2017-12-17" by Garry Knight, **CC BY 2.0** (credited on screen).
+- Panels and end card: original graphics. Voiceover: AI (edge-tts en-NG-EzinneNeural), rate −8%, pitch −3 Hz. TikTok `isAiGenerated: true`. General info, not medical advice.
