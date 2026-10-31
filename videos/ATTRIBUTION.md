@@ -173,3 +173,6 @@ Original graphics, no photos. Facts checked 27 Oct 2026: visitbrighton.com/plan-
 - Facts: nhs.uk/nhs-services/gps/how-to-register-with-a-gp-surgery/, read 28 Oct 2026 (England only).
 - **Photos:** "Big Ben in 2025.08" by CAPTAIN RAJU, **CC0**; "Bishopsgate in the Rain 2017-12-17" by Garry Knight, **CC BY 2.0** (credited on screen).
 - Panels and end card: original graphics. Voiceover: AI (edge-tts en-NG-EzinneNeural), rate −8%, pitch −3 Hz. TikTok `isAiGenerated: true`. General info, not medical advice.
+
+## 29-student-funds (photo carousel, Thu 5 Nov 2026)
+Original graphics, no photos. Facts from GOV.UK "Student visa: Money" (https://www.gov.uk/student-visa/money), read via the GOV.UK content API on 31 Oct 2026. General information, not immigration advice.
