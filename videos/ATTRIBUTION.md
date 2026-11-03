@@ -184,3 +184,7 @@ Original graphics, no photos. Facts from GOV.UK "Student visa: Money" (https://w
 ## 31-nigerian-licence-uk (photo carousel, Sat 7 Nov 2026)
 - Facts: GOV.UK "Driving in Great Britain on a non-GB licence" (https://www.gov.uk/driving-nongb-licence), read 2 Nov 2026 via the GOV.UK content API.
 - Graphics: original, no photos or third-party media.
+
+## 32-food-from-nigeria (photo carousel, 7 slides)
+* Facts: GOV.UK "Bringing food into Great Britain" (https://www.gov.uk/bringing-food-into-great-britain, updated 10 Dec 2024), read via the GOV.UK content API on 3 Nov 2026.
+* Graphics: original, generated with make_carousel.py. No photos or third-party images.
