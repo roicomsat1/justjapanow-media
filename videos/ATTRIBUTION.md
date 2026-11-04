@@ -188,3 +188,17 @@ Original graphics, no photos. Facts from GOV.UK "Student visa: Money" (https://w
 ## 32-food-from-nigeria (photo carousel, 7 slides)
 * Facts: GOV.UK "Bringing food into Great Britain" (https://www.gov.uk/bringing-food-into-great-britain, updated 10 Dec 2024), read via the GOV.UK content API on 3 Nov 2026.
 * Graphics: original, generated with make_carousel.py. No photos or third-party images.
+
+## 33-flight-delay-rights (video, scheduled Mon 9 Nov 2026 20:00 Lagos / 19:00 GMT)
+- Facts: UK Civil Aviation Authority, read 4 Nov 2026: caa.co.uk/air-passengers/travel-problems-and-rights/flight-delays-and-cancellations/delays/ (UK261 right to care, compensation amounts, self-transfer), .../travel-complaints/making-a-claim/am-i-entitled-to-compensation/ (extraordinary circumstances), .../flight-delays-and-cancellations/denied-boarding/ ("Does UK law apply to your flight?").
+- **Photos:** "Heathrow-T1.JPG" and "Airbus A319 at sunset at London Heathrow Terminal 3 ..." from Wikimedia Commons, as logged in pipeline/attributions.json (credited on screen where the licence needs it).
+- Departures board is an illustration (no real flights). Panels and end card: original graphics. Voiceover: AI (edge-tts en-NG-EzinneNeural), rate −8%, pitch −3 Hz. TikTok `isAiGenerated: true`. General info, not legal advice.
+
+## 34-uk-visitor-visa (photo carousel, 7 slides, scheduled Tue 10 Nov 2026 20:00 Lagos / 19:00 GMT)
+- Facts: GOV.UK "Visit the UK as a Standard Visitor" (https://www.gov.uk/standard-visitor, all parts incl. "Apply for a Standard Visitor visa"), read via the GOV.UK content API on 4 Nov 2026.
+- Graphics: original, generated with make_carousel.py. No photos or third-party images. General info, not immigration advice.
+
+## 35-share-code (video, scheduled Wed 11 Nov 2026 20:00 Lagos / 19:00 GMT)
+- Facts: GOV.UK "Prove your right to work to an employer" (https://www.gov.uk/prove-right-to-work) and "Prove your right to rent in England" (https://www.gov.uk/prove-right-to-rent), read via the GOV.UK content API on 4 Nov 2026.
+- **Photos:** "Desks in an open office space (Unsplash)" by Crew, **CC0**; "Terraced houses in Kensington (Unsplash)" by Christian Vasile, **CC0** (Wikimedia Commons).
+- Panels and end card: original graphics. Voiceover: AI (edge-tts en-NG-EzinneNeural), rate −8%, pitch −3 Hz. TikTok `isAiGenerated: true`. General info, not immigration advice.
