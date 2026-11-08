@@ -202,3 +202,11 @@ Original graphics, no photos. Facts from GOV.UK "Student visa: Money" (https://w
 - Facts: GOV.UK "Prove your right to work to an employer" (https://www.gov.uk/prove-right-to-work) and "Prove your right to rent in England" (https://www.gov.uk/prove-right-to-rent), read via the GOV.UK content API on 4 Nov 2026.
 - **Photos:** "Desks in an open office space (Unsplash)" by Crew, **CC0**; "Terraced houses in Kensington (Unsplash)" by Christian Vasile, **CC0** (Wikimedia Commons).
 - Panels and end card: original graphics. Voiceover: AI (edge-tts en-NG-EzinneNeural), rate −8%, pitch −3 Hz. TikTok `isAiGenerated: true`. General info, not immigration advice.
+
+## 36-vote-in-uk (carousel, scheduled Thu 12 Nov 2026 20:00 Lagos)
+Original graphics, no photos. Facts from GOV.UK, read 7 Nov 2026 via the GOV.UK content API:
+gov.uk/register-to-vote, gov.uk/elections-in-the-uk, gov.uk/how-to-vote (photo ID part). General information, not legal advice.
+
+## 37-health-surcharge (carousel, 7 slides, scheduled Fri 13 Nov 2026 20:00 Lagos / 19:00 GMT)
+- Facts: GOV.UK "Pay for UK healthcare as part of your immigration application" (https://www.gov.uk/healthcare-immigration-application, updated 28 Nov 2024), read via the GOV.UK content API on 8 Nov 2026.
+- Graphics: original, generated with make_carousel.py. No photos or third-party images. General info, not immigration advice.
