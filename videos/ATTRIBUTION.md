@@ -210,3 +210,7 @@ gov.uk/register-to-vote, gov.uk/elections-in-the-uk, gov.uk/how-to-vote (photo I
 ## 37-health-surcharge (carousel, 7 slides, scheduled Fri 13 Nov 2026 20:00 Lagos / 19:00 GMT)
 - Facts: GOV.UK "Pay for UK healthcare as part of your immigration application" (https://www.gov.uk/healthcare-immigration-application, updated 28 Nov 2024), read via the GOV.UK content API on 8 Nov 2026.
 - Graphics: original, generated with make_carousel.py. No photos or third-party images. General info, not immigration advice.
+
+## 39-deposit-protection (carousel, 7 slides, scheduled Sun 15 Nov 2026 19:00 Lagos / 18:00 GMT)
+- Facts: GOV.UK "Tenancy deposit protection" (https://www.gov.uk/tenancy-deposit-protection), read via the GOV.UK content API on 10 Nov 2026.
+- Graphics: original, generated with make_carousel.py. No photos or third-party images. General info, not legal advice.
