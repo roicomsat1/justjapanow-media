@@ -214,3 +214,12 @@ gov.uk/register-to-vote, gov.uk/elections-in-the-uk, gov.uk/how-to-vote (photo I
 ## 39-deposit-protection (carousel, 7 slides, scheduled Sun 15 Nov 2026 19:00 Lagos / 18:00 GMT)
 - Facts: GOV.UK "Tenancy deposit protection" (https://www.gov.uk/tenancy-deposit-protection), read via the GOV.UK content API on 10 Nov 2026.
 - Graphics: original, generated with make_carousel.py. No photos or third-party images. General info, not legal advice.
+
+## 40-nhs-111 (video, 11 Nov 2026)
+Facts: nhs.uk "When to use NHS 111 online or call 111", read 11 Nov 2026. Photos: Wikimedia Commons, Big Ben at night 30 April 2017 and Bishopsgate in the Rain 2017-12-17 (credits as logged in pipeline/attributions.json). AI voiceover en-NG-EzinneNeural. General information, not medical advice.
+
+## 41-check-your-degree (carousel, 11 Nov 2026)
+Facts: GOV.UK "Check if your university or college can award a degree" and "Student visa", read 11 Nov 2026 via the GOV.UK content API. Original graphics, no photos. Not immigration advice.
+
+## 42-graduate-visa-deadline (carousel, 11 Nov 2026)
+Facts: GOV.UK "Graduate visa", read 11 Nov 2026 via the GOV.UK content API. Original graphics, no photos. Not immigration advice.
