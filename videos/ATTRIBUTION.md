@@ -253,3 +253,6 @@ Facts: GOV.UK "Graduate visa", read 11 Nov 2026 via the GOV.UK content API. Orig
 ## 47-bringing-cash (carousel, 7 slides, scheduled Sun 22 Nov 2026 19:00 Lagos / 18:00 GMT)
 - Facts: GOV.UK "Take cash in and out of the UK" (https://www.gov.uk/bringing-cash-into-uk, updated 30 Sep 2026), read via the GOV.UK content API on 13 Nov 2026.
 - Graphics: original, generated with make_carousel.py. No photos or third-party images. JUSTJAPA NOW branding on the cover kicker and end slide. General info, not legal advice.
+
+## 48-student-visa-work-v2 (HeyGen avatar, 13 Nov 2026)
+Facts read 13 Nov 2026 from GOV.UK "Student visa" (https://www.gov.uk/student-visa, page updated 12 Nov 2026; Overview section): £558 fee to apply from outside the UK or to extend/switch from inside the UK; healthcare surcharge payable, amount depends on visa length; "You may be able to work - how much depends on what you're studying and whether you're working in or out of term-time" (no hour limits stated, none given); cannot claim public funds, be self-employed, or work in certain jobs e.g. professional sportsperson or sports coach. Avatar: CHINWENDU NKORO look "Professional in textured blue blazer"; voice Chinwendu Nkoro voice (HeyGen instant clone). AI-generated. General information, not immigration advice. Reusable JUSTJAPA NOW intro and closing bumpers.
