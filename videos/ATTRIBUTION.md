@@ -231,3 +231,13 @@ Facts: GOV.UK "Graduate visa", read 11 Nov 2026 via the GOV.UK content API. Orig
 ## 44-eu-ees-border (HeyGen avatar video, 13 Nov 2026)
 - Facts: official EU Entry/Exit System pages, read 13 Nov 2026: travel-europe.europa.eu/en/ees/what-is-the-ees; travel-europe.europa.eu/ees/how-does-the-ees-work.html; travel-europe.europa.eu/ees/ltr/faq.html; and the European Commission page home-affairs.ec.europa.eu/policies/schengen/smart-borders/entry-exit-system_en. Fully operational from 10 April 2026 after a progressive start on 12 October 2025.
 - Presenter: Jude's private HeyGen photo avatar, group CHINWENDU NKORO, look "Professional in textured blue blazer". Voice: instant clone "Chinwendu Nkoro voice", speed 0.85. Burned-in captions from HeyGen; date badge and disclaimer overlay added locally. AI-generated. General information, not immigration advice.
+
+## 43-uk-children-travel-v2 (HeyGen avatar video, scheduled Thu 19 Nov 2026 20:00 Lagos / 19:00 GMT)
+- Same facts and body as 43-uk-children-travel, checked on GOV.UK on 13 Nov 2026.
+- v2 (13 Nov 2026, evening): added reusable JUSTJAPA NOW intro ("Welcome to JUSTJAPA NOW") and closing ("Follow at Just Japa Now for cheap flights, travel tips and new rules"), with the house wordmark and @justjapanow on screen. Bumpers: avatar look Professional in textured blue blazer, Chinwendu Nkoro voice at speed 0.85. Body captions, check-date badge and disclaimer unchanged.
+- Public file: 43-uk-children-travel-v2.mp4 (replaces the unbranded cut in Buffer; the original file is left in place so older links still work).
+
+## 44-eu-ees-border-v2 (HeyGen avatar video, scheduled Fri 20 Nov 2026 20:00 Lagos / 19:00 GMT)
+- Same facts and body as 44-eu-ees-border, checked on official EU sites on 13 Nov 2026.
+- v2 (13 Nov 2026, evening): same reusable JUSTJAPA NOW intro and closing as 43-uk-children-travel-v2. Body captions, check-date badge and disclaimer unchanged.
+- Public file: 44-eu-ees-border-v2.mp4 (replaces the unbranded cut in Buffer; the original file is left in place).
