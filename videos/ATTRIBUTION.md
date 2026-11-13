@@ -245,3 +245,11 @@ Facts: GOV.UK "Graduate visa", read 11 Nov 2026 via the GOV.UK content API. Orig
 ## 45-uk-eta-check (carousel, 7 slides, extra post Fri 13 Nov 2026 22:00 Lagos / 21:00 GMT)
 - Facts: GOV.UK "Get an electronic travel authorisation (ETA) to visit the UK" (https://www.gov.uk/eta, guide updated 13 Nov 2026, 15:01 GMT), read via the GOV.UK content API on 13 Nov 2026. Also reviewed https://www.gov.uk/check-uk-visa and https://www.gov.uk/standard-visitor the same day.
 - Graphics: original, generated with make_carousel.py. No photos or third-party images. JUSTJAPA NOW branding on the cover kicker and end slide. General info, not immigration advice.
+
+## 46-december-flight-checks (carousel, 7 slides, scheduled Sat 21 Nov 2026 19:00 Lagos / 18:00 GMT)
+- Facts read 13 Nov 2026 via the GOV.UK content API: "Entering the UK" (https://www.gov.uk/uk-border-control, updated 23 Oct 2026); "Get an electronic travel authorisation (ETA)" (https://www.gov.uk/eta, updated 13 Nov 2026); "Hand luggage restrictions at UK airports" (https://www.gov.uk/hand-luggage-restrictions, updated 2 Nov 2026); "About Foreign, Commonwealth & Development Office travel advice" (https://www.gov.uk/guidance/about-foreign-commonwealth-development-office-travel-advice, updated 12 Nov 2026) and https://www.gov.uk/foreign-travel-advice. No fares shown.
+- Graphics: original, generated with make_carousel.py. No photos or third-party images. JUSTJAPA NOW branding on the cover kicker and end slide. General info, not immigration or legal advice.
+
+## 47-bringing-cash (carousel, 7 slides, scheduled Sun 22 Nov 2026 19:00 Lagos / 18:00 GMT)
+- Facts: GOV.UK "Take cash in and out of the UK" (https://www.gov.uk/bringing-cash-into-uk, updated 30 Sep 2026), read via the GOV.UK content API on 13 Nov 2026.
+- Graphics: original, generated with make_carousel.py. No photos or third-party images. JUSTJAPA NOW branding on the cover kicker and end slide. General info, not legal advice.
