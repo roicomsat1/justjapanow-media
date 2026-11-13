@@ -241,3 +241,7 @@ Facts: GOV.UK "Graduate visa", read 11 Nov 2026 via the GOV.UK content API. Orig
 - Same facts and body as 44-eu-ees-border, checked on official EU sites on 13 Nov 2026.
 - v2 (13 Nov 2026, evening): same reusable JUSTJAPA NOW intro and closing as 43-uk-children-travel-v2. Body captions, check-date badge and disclaimer unchanged.
 - Public file: 44-eu-ees-border-v2.mp4 (replaces the unbranded cut in Buffer; the original file is left in place).
+
+## 45-uk-eta-check (carousel, 7 slides, extra post Fri 13 Nov 2026 22:00 Lagos / 21:00 GMT)
+- Facts: GOV.UK "Get an electronic travel authorisation (ETA) to visit the UK" (https://www.gov.uk/eta, guide updated 13 Nov 2026, 15:01 GMT), read via the GOV.UK content API on 13 Nov 2026. Also reviewed https://www.gov.uk/check-uk-visa and https://www.gov.uk/standard-visitor the same day.
+- Graphics: original, generated with make_carousel.py. No photos or third-party images. JUSTJAPA NOW branding on the cover kicker and end slide. General info, not immigration advice.
