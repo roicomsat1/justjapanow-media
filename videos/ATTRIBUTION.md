@@ -224,6 +224,10 @@ Facts: GOV.UK "Check if your university or college can award a degree" and "Stud
 ## 42-graduate-visa-deadline (carousel, 11 Nov 2026)
 Facts: GOV.UK "Graduate visa", read 11 Nov 2026 via the GOV.UK content API. Original graphics, no photos. Not immigration advice.
 
-## 43-uk-children-travel (HeyGen avatar sample, 13 Nov 2026, not scheduled)
+## 43-uk-children-travel (HeyGen avatar video, scheduled Thu 19 Nov 2026 20:00 Lagos / 19:00 GMT)
 - Facts: GOV.UK "Children travelling to the UK (accessible)" (https://www.gov.uk/government/publications/children-travelling-to-the-uk/children-travelling-to-the-uk-accessible, updated 22 Jan 2026) and "Visiting the UK: guide to supporting documents" (https://www.gov.uk/government/publications/visitor-visa-guide-to-supporting-documents/guide-to-supporting-documents-visiting-the-uk, updated 8 Oct 2026), read via the GOV.UK content API on 13 Nov 2026. Also reviewed "Visit the UK as a Standard Visitor: If you're under 18" (https://www.gov.uk/standard-visitor/if-youre-under-18) the same day.
 - Presenter: Jude's private HeyGen photo avatar, group CHINWENDU NKORO, look "Professional in textured blue blazer". Voice: instant clone "Chinwendu Nkoro voice". Burned-in captions from HeyGen; date badge and disclaimer overlay added locally. AI-generated. General information, not immigration advice.
+
+## 44-eu-ees-border (HeyGen avatar video, 13 Nov 2026)
+- Facts: official EU Entry/Exit System pages, read 13 Nov 2026: travel-europe.europa.eu/en/ees/what-is-the-ees; travel-europe.europa.eu/ees/how-does-the-ees-work.html; travel-europe.europa.eu/ees/ltr/faq.html; and the European Commission page home-affairs.ec.europa.eu/policies/schengen/smart-borders/entry-exit-system_en. Fully operational from 10 April 2026 after a progressive start on 12 October 2025.
+- Presenter: Jude's private HeyGen photo avatar, group CHINWENDU NKORO, look "Professional in textured blue blazer". Voice: instant clone "Chinwendu Nkoro voice", speed 0.85. Burned-in captions from HeyGen; date badge and disclaimer overlay added locally. AI-generated. General information, not immigration advice.
