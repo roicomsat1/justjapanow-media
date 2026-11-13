@@ -223,3 +223,7 @@ Facts: GOV.UK "Check if your university or college can award a degree" and "Stud
 
 ## 42-graduate-visa-deadline (carousel, 11 Nov 2026)
 Facts: GOV.UK "Graduate visa", read 11 Nov 2026 via the GOV.UK content API. Original graphics, no photos. Not immigration advice.
+
+## 43-uk-children-travel (HeyGen avatar sample, 13 Nov 2026, not scheduled)
+- Facts: GOV.UK "Children travelling to the UK (accessible)" (https://www.gov.uk/government/publications/children-travelling-to-the-uk/children-travelling-to-the-uk-accessible, updated 22 Jan 2026) and "Visiting the UK: guide to supporting documents" (https://www.gov.uk/government/publications/visitor-visa-guide-to-supporting-documents/guide-to-supporting-documents-visiting-the-uk, updated 8 Oct 2026), read via the GOV.UK content API on 13 Nov 2026. Also reviewed "Visit the UK as a Standard Visitor: If you're under 18" (https://www.gov.uk/standard-visitor/if-youre-under-18) the same day.
+- Presenter: Jude's private HeyGen photo avatar, group CHINWENDU NKORO, look "Professional in textured blue blazer". Voice: instant clone "Chinwendu Nkoro voice". Burned-in captions from HeyGen; date badge and disclaimer overlay added locally. AI-generated. General information, not immigration advice.
