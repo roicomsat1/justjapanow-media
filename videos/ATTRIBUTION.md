@@ -262,3 +262,6 @@ Original graphics, no photos. Facts: GOV.UK gov.uk/find-licences/tv-licence (upd
 
 ## 51-school-admissions (photo carousel, 14 Nov 2026)
 Original graphics, no photos. Facts: GOV.UK gov.uk/schools-admissions (updated 13 Nov 2026), read 14 Nov 2026.
+
+## 50-skilled-worker-basics-v2 (HeyGen avatar, 14 Nov 2026)
+Jude's own HeyGen avatar (CHINWENDU NKORO, look "Professional in textured blue blazer") and cloned voice; AI-generated. Reusable JUSTJAPA NOW intro/closing bumpers. Facts: GOV.UK gov.uk/skilled-worker-visa (updated 14 Sep 2026), read 14 Nov 2026. General info, not immigration advice.
