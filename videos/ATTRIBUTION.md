@@ -265,3 +265,7 @@ Original graphics, no photos. Facts: GOV.UK gov.uk/schools-admissions (updated 1
 
 ## 50-skilled-worker-basics-v2 (HeyGen avatar, 14 Nov 2026)
 Jude's own HeyGen avatar (CHINWENDU NKORO, look "Professional in textured blue blazer") and cloned voice; AI-generated. Reusable JUSTJAPA NOW intro/closing bumpers. Facts: GOV.UK gov.uk/skilled-worker-visa (updated 14 Sep 2026), read 14 Nov 2026. General info, not immigration advice.
+
+## 52-fcdo-travel-advice-v2 (HeyGen avatar)
+- Facts: GOV.UK guidance/about-foreign-commonwealth-development-office-travel-advice (updated 12 Nov 2026), read 15 Nov 2026; gov.uk/foreign-travel-advice.
+- Presenter: Jude's own HeyGen photo avatar (look 410bba13...) and cloned voice d428b05b..., AI-generated. Reusable JUSTJAPA NOW intro/closing bumpers. No third-party photos.
