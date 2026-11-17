@@ -282,3 +282,21 @@ Jude's own HeyGen avatar (CHINWENDU NKORO, look "Professional in textured blue b
 ## 70-your-first-home (photo carousel, 8 slides, produced 15 Nov 2026; planned Sat 12 Dec 2026 19:00 Lagos / 18:00 GMT)
 - ORIGINAL JUSTJAPA NOW carousel. Facts from GOV.UK 'Your First Home' (https://www.gov.uk/government/publications/your-first-home/your-first-home), updated 3 Nov 2026, applies to England, read via the GOV.UK content API on 15 Nov 2026: deposit of at least 2.5%, government equity loan of 20% interest-free for 5 years, repayment mortgage from a participating lender; example on a £300,000 home; applications not open yet; pre-registration by end of December 2026; applications expected February 2027; first sales expected April 2027; first-time buyers of a new-build main home in England within the local price cap; household income £110,000 or less outside London, or £140,000 or less in London. The official page does not say whether visa holders or non-UK nationals qualify; full eligibility rules will be published before applications open. Equity loan interest 0% years 1-5, 1.5% year 6, 3% from year 7; repayment is normally a share of the later value. Also reviewed https://www.gov.uk/government/news/new-first-time-buyer-scheme-to-be-confirmed-at-budget (26 Sep 2026). Status: ANNOUNCED, applications not open yet.
 - Graphics: original, generated with make_carousel.py. No photos or third-party images. General info, not financial, legal or immigration advice.
+
+## 53-track-prices-reminder (photo carousel, 7 slides)
+Original JUSTJAPA NOW graphics, no photos. Facts from Google Travel Help, "Track flights and prices" (https://support.google.com/travel/answer/6235879, computer and Android versions), read 16 Nov 2026. Qualitative only, no fares. Not sponsored.
+
+## 71-alaska-miles-topup-ad (faceless edge-tts video, produced 17 Nov 2026; planned Wed 18 Nov 2026 14:00 Lagos / 13:00 GMT)
+- #ad AFFILIATE post (impact.com / Points.com, approved by Jude). ORIGINAL JUSTJAPA NOW script. Promo check 17 Nov 2026 (LoyaltyLobby, AwardWallet): Alaska Atmos targeted buy-miles offer to 19 Dec 2026; no percentage stated on purpose. No airline logos.
+- **Photo:** "Sunset view from an airplane window above the clouds" by Salwa Farwaneh Dameh, **CC0**. https://commons.wikimedia.org/wiki/File:Sunset_view_from_an_airplane_window_above_the_clouds.jpg
+- Generated panels (lib/graphics.py). AI voiceover en-NG-EzinneNeural. Not financial advice.
+
+## 72-ihg-points-vs-cash-ad (faceless edge-tts video, produced 17 Nov 2026; planned Fri 20 Nov 2026 14:00 Lagos / 13:00 GMT)
+- #ad AFFILIATE post (impact.com / Points.com, approved by Jude). ORIGINAL JUSTJAPA NOW script. No live IHG sale claimed (latest reported sale ended 15 Nov 2026). No hotel logos.
+- **Photo:** "Terraced houses in Kensington (Unsplash)" by Christian Vasile, **CC0** (Wikimedia Commons).
+- Generated panels (lib/graphics.py). AI voiceover en-NG-EzinneNeural. Not financial advice.
+
+## 73-points-sale-checklist-ad (faceless edge-tts video, produced 17 Nov 2026; planned Sun 22 Nov 2026 14:00 Lagos / 13:00 GMT)
+- #ad AFFILIATE post (impact.com / Points.com, approved by Jude). ORIGINAL JUSTJAPA NOW script. Method only; no live-sale claim, no percentages.
+- **Photo:** "In flight above scattered clouds (Unsplash)" by Harry Knight, **CC0** (Wikimedia Commons).
+- Generated panels (lib/graphics.py). AI voiceover en-NG-EzinneNeural. Not financial advice.
