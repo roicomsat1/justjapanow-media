@@ -316,3 +316,8 @@ Original graphics, no third-party photos. Facts: official ETIAS website travel-e
 
 ## 59-uae-travel-advice (photo carousel, scheduled Wed 2 Dec 2026 20:00 Lagos / 19:00 GMT)
 Original graphics, no third-party photos. Facts: GOV.UK FCDO foreign travel advice for the United Arab Emirates (content API, updated 18 Nov 2026) and the UAE government portal u.ae "Check if you need a visa to enter the UAE" (dated 13 Jul 2026), both read 22 Nov 2026. General info, not immigration or legal advice.
+
+## 58-canada-visitor-v2 (HeyGen avatar, produced 22 Nov 2026; scheduled Tue 1 Dec 2026 20:00 Lagos / 19:00 GMT)
+- ORIGINAL JUSTJAPA NOW script (other-country rules). Not copied from any third-party video or wording.
+- Facts read 22 Nov 2026 on Canada.ca (IRCC): What you need to enter Canada (Nigeria on the visa-required list), How to apply for a visitor visa (passport valid at least 6 months from travel date; fees table: visitor visa $100, biometrics $85), Guide 5256 (visa must be obtained before departure, not on arrival; most people must apply online), Biometrics (fingerprints and photo, CAN$85), Who can apply (ties to home country, enough money), Visitor visa: about the document (most visitors can stay up to 6 months; border officer may allow less or more).
+- Presenter: Jude's private HeyGen photo avatar, group CHINWENDU NKORO, look 'Professional in textured blue blazer'. Voice: instant clone 'Chinwendu Nkoro voice', speed 0.92. HeyGen id 13190d783dc1ff3c3ebe6885c6c51976. Burned-in captions from HeyGen; date badge and disclaimer overlay added locally. Reusable JUSTJAPA NOW intro and closing bumpers. AI-generated. General info, not immigration advice.
